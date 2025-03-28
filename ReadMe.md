@@ -21,13 +21,6 @@ This AI-powered theft detection system integrates security cameras, POS systems,
 * **Security Dashboard**: Displays alerts, allows video review, and enables security actions.  
 * **Retail System (POS & Inventory)**: Provides transaction data to the AI for fraud detection.
 
-## **Tech Stack**
-
-* **Backend**: Python, Django, OpenCV  
-* **Frontend**: HTML, CSS, JavaScript  
-* **Database**: SQLite (Local), MySQL (Cloud)  
-* **Security & Storage**: AWS S3 / Google Cloud, RTSP (Streaming Protocol)  
-* **Containerization**: Docker (For Deployment)
 
 ## **UML Diagrams**
 
