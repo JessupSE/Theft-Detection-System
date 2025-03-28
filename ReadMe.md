@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This AI-powered theft detection system integrates security cameras, POS systems, and AI analytics to monitor behavior, detect unusual activities, and prevent theft in retail environments. The system provides real-time alerts, facial recognition, and geofencing capabilities to enhance security operations.
+This AI-powered theft detection system integrates security cameras, POS systems, and AI analytics to monitor behavior, detect unusual activities, and prevent theft. The system provides real-time alerts, facial recognition, and geofencing capabilities to enhance security operations.
 
 ## **Features**
 
