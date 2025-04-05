@@ -31,3 +31,7 @@ The following are the UML diagrams that illustrate the architecture of this syst
 [Theft Detection System \- Use Case digram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Theft%20Detection%20System%20-Use%20Case%20Diagram%20\(User%20Interactions%20%26%20System%20Functions\).drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1gWbCGpmcf9XI4aHLJYxdh-wCHfDnIkpj%26export%3Ddownload#%7B%22pageId%22%3A%22iC-9rnXqC89ynIE3CmQG%22%7D)
 
 [Theft Detection System \- Deployment Diagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Theft%20detection%20system-deployment.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1Y3WT_rrcGdWiQnesaSKgzC9iHk22Knqg%26export%3Ddownload#%7B%22pageId%22%3A%22929967ad-93f9-6ef4-fab6-5d389245f69c%22%7D)
+
+## **Wireframe**
+https://github.com/user-attachments/assets/0387e024-8eb1-4877-b36b-1c4837445bc3
+
